@@ -3,11 +3,11 @@
 * Requires Network access
 
 ## Brief
-For this project assessment. I created a CoHort task tracker website usable for keeping tabs and updates targerting for group of students.
+For this project assessment. I created a CoHort task tracker website usable for keeping tabs and updates targeting for group of students.
 
 
 Features include:
-* Overlay to allow login via username or remain anouymous
+* Overlay to allow login via username or remain anonymous
 * Summative board logging briefs for active and upcoming summative assessments,
 * Server connected message board for students to communicate anytime
 * Logs, a board automatically logging interactions of active users
