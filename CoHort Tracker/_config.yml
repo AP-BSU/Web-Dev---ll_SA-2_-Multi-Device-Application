@@ -1,5 +1,9 @@
-title: CoHort Tracker
-description: My Prototype website
-baseurl: ""
-url: "https://username.github.io"
-theme: jekyll-theme-primer
+title: CoHort Tracaker
+description: My Protoype Website
+baseurl: "/Web-Dev---ll_SA-2_-Multi-Device-Application/CoHort Tracker" # repository 
+url: "https://github.com/AP-BSU" # Replace with your GitHub username
+theme: jekyll-theme-primer # Default GitHub Pages theme
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
