@@ -53,6 +53,6 @@ app.post('/logs', async (req, res) => {
   res.json(newLog);
 });
 
-// Start Server
+// Start Server and edit port values
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
